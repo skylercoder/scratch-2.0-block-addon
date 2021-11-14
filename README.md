@@ -1,0 +1,1 @@
+# scratch-2.0-block-addon
